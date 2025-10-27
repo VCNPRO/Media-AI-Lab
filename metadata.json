@@ -1,0 +1,8 @@
+{
+  "name": "Media AI Lab",
+  "description": "An AI-powered application for technical analysis and enhancement of videos, audios, and still images, leveraging open-source tools and Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
